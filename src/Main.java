@@ -11,7 +11,7 @@ public class Main {
 
         List<Integer> numbers = new ArrayList<>();
         for (int i = 0; i < listSize; i++){
-            System.out.println("Введите элемент массива: ");
+            System.out.println("Введите элемент массива:");
             numbers.add(scanner.nextInt());
         }
 
